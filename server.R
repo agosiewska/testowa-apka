@@ -5,3 +5,6 @@ function(input, output, session){
       geom_histogram(binwidth = input$slider_1)
   })
 }
+
+# dsahuid
+
